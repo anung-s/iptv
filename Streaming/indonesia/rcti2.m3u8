@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:1
+#EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent=android-R+
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
